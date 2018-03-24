@@ -27,5 +27,7 @@ public class Main {
 		// Initialize the Knight's position
 		
 		// Find a path to the goal
+		
+		// Print out results
 	};
 };
